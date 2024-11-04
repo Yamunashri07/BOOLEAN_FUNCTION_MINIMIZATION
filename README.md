@@ -1,6 +1,6 @@
 ### NAME : YAMUNA SHRI VARDHINI T V
 ### REG NO : 24003856
-# EXPERIMENT 2 : BOOLEAN FUNCTION IMPLEMENTATION
+# EXPERIMENT 2 : BOOLEAN FUNCTION IMPLEMENTATION 
 
 # AIM
 
@@ -46,5 +46,5 @@ Use University program VWF to verify the functionality of your Verilog modules. 
 ![Screenshot 2024-11-04 105801](https://github.com/user-attachments/assets/7e642494-c0e9-4d15-93bc-1da06e953640)
 
 # RESULT
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented and their logic operations are verified using Verilog programming.
 
